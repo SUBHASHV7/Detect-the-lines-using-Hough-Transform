@@ -1,6 +1,6 @@
 # Ex-7 : Detect-the-lines-using-Hough-Transform
 
-## Developed By:
+## Developed By
 ### Name: Subhash V
 ### Register No: 212224240163
 
